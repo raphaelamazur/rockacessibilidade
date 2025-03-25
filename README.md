@@ -1,1 +1,12 @@
 # rockacessibilidade
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+}
+
+header {
+    background-color: #ff0000;
+    padding: 10px;
+}
